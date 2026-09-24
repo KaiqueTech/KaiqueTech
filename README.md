@@ -1,16 +1,65 @@
-## Hi there 👋
+# Olá, eu sou Kaique 👋
 
-<!--
-**KaiqueTech/KaiqueTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer · .NET · AWS · GenAI · Software Architecture
 
-Here are some ideas to get you started:
+Desenvolvedor de software focado em backend, Cloud e aplicações
+baseadas em Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+- 💻 C# / .NET
+- ☁️ AWS
+- 🤖 GenAI, LLMs e RAG
+- 🏗️ Software Architecture
+- 🔌 APIs REST
+- 🌐 Angular
+
+---
+
+## 🛠️ Tecnologias
+
+**Backend**
+
+C# · .NET · ASP.NET Core · Entity Framework Core
+
+**Cloud**
+
+AWS · Docker · Terraform
+
+**Architecture**
+
+Clean Architecture · CQRS · SOLID · Microservices
+
+**AI**
+
+RAG · LLM · Embeddings · Vector Search · MCP
+
+**Frontend**
+
+Angular · TypeScript
+
+---
+
+## 📌 Projetos
+
+### 🏋️ Evolut
+
+SaaS para gerenciamento de personal trainers,
+alunos, treinos, contratos e planos.
+
+### 🎉 EventService
+
+Sistema para gerenciamento de eventos,
+convidados, despesas e tarefas.
+
+### 🛡️ SafePhone
+
+Aplicação voltada para segurança e gerenciamento.
+
+---
+
+## 📫 Contato
+
+[LinkedIn](SEU_LINKEDIN)
